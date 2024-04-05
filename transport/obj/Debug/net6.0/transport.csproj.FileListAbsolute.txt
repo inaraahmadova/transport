@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.AssemblyInfo.cs
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\transport\transport\bin\Debug\net6.0\transport.exe
+C:\Users\Hp\Desktop\transport\transport\bin\Debug\net6.0\transport.deps.json
+C:\Users\Hp\Desktop\transport\transport\bin\Debug\net6.0\transport.runtimeconfig.json
+C:\Users\Hp\Desktop\transport\transport\bin\Debug\net6.0\transport.dll
+C:\Users\Hp\Desktop\transport\transport\bin\Debug\net6.0\transport.pdb
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.dll
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\refint\transport.dll
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.pdb
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\transport.genruntimeconfig.cache
+C:\Users\Hp\Desktop\transport\transport\obj\Debug\net6.0\ref\transport.dll
